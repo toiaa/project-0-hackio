@@ -10,7 +10,7 @@ Este repositorio contiene la entrega del **Project 0**, en el que se utilizan SQ
 
 - **project-0/prework/python/**: Los ejercicios resueltos con: scripts en Python.
 
-- **project-0/prework/excel/**: todavia no estan los archivos de los ejercicios resueltos aqui.
+- **project-0/prework/excel/**: Los ejercicios resueltos dentro de hojas de microsoft excel.
 
 ## Requisitos
 
